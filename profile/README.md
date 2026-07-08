@@ -77,3 +77,6 @@ Every contribution helps improve our projects.
 <p align="center">Made with ❤️ by BlackCorpDev
 
 </p>
+
+Building fast, lightweight and reliable software.
+Türkiye
